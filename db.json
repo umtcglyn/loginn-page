@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "umtcglyn",
+      "fullname": "Umut Çağlayan",
+      "password": "2ec57c8d873e1765ac0c37ef8fcebb858cd62c4e",
+      "id": 1
+    },
+    {
+      "username": "ufkcglyn",
+      "fullname": "Ufuk Çağlayan",
+      "password": "2ec57c8d873e1765ac0c37ef8fcebb858cd62c4e",
+      "id": 2
+    }
+  ]
+}
